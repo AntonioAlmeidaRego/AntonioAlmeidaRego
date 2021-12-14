@@ -1,7 +1,7 @@
 ## Olá! Eu sou Antônio Almeida
 
 - 🎓 Graduado em Análise e Desenvolvimento de Sistema - IFRN;
-- 💻 Desenvolvedor web e mobile;
+- 💻 Desenvolvedor full stack;
 - 🔥 Apaixonado por programação, procurando sempre estar atualizado com as novas tecnologias do mercado.
 
  <div>
