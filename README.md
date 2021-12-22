@@ -21,6 +21,10 @@
   
   <img align="center" alt="nodejs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="center" alt="php" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+   <img align="center" alt="spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+   <img align="center" alt="socketio" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" />
+
+
    
    ## Conhecimentos Front-end
     <img align="center" alt="HTML" height="50" width="50" src="https://icongr.am/devicon/html5-original-wordmark.svg">
@@ -31,20 +35,31 @@
    <img align="center" alt="BT" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vue" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
-   
+   <img align="center" alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
    
    ## Conhecimentos Databases
    <img align="center" alt="Mysql" height="50" width="50" src="https://icongr.am/devicon/mysql-original-wordmark.svg">
-  <img align="center" alt="Postgree" height="50" width="50" src="https://icongr.am/devicon/postgresql-original-wordmark.svg">
+  <img align="center" alt="Postgree" height="50" width="50" src="https://icongr.am/devicon/postgresql-original-wordmark.svg">   
+   <img align="center" alt="Firebase" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg">
+   
+   ## Experiência IDE´s
+   <img align="center" alt="Pycharm" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" />
+   <img align="center" alt="Intellij" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png"/>
+    <img align="center" alt="PhpStorm" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/2048px-PhpStorm_Icon.svg.png"/>
+    <img align="center" alt="vscode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+   
+   <img align="center" alt="eclipse" height="50" width="50" src="https://iconape.com/wp-content/png_logo_vector/eclipse-2.png" />
+   <img align="center" alt="Apache NetBeans" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png"/>
    
    ## Conhecimentos Infraestruturas
    <img align="center" alt="Linux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
    <img align="center" alt="Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
    <img align="center" alt="tomcat" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" />
-   <img align="center" alt="vscode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  
    <img align="center" alt="yarn" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
-   <img align="center" alt="Firebase" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg">
    <img align="center" alt="npm" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+   <img align="center" alt="Heroku" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
+   
 </div>
   
   ##
