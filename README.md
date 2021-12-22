@@ -66,5 +66,5 @@
   
   <img src="https://komarev.com/ghpvc/?username=AntonioAlmeidaRego&color=red" alt="quantidade de visualizações que o perfil de antonio recebeu" /> 
  
-</div>
+ </div>
   
