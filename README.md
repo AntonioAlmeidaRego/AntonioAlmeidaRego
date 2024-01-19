@@ -15,7 +15,7 @@
    <img align="center" alt="Java" height="50" width="50" src="https://icongr.am/devicon/java-original-wordmark.svg">
    <img align="center" alt="C++" height="50" width="50" src="https://icongr.am/devicon/cplusplus-original.svg">
    <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-   <img align="center" alt="django" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+   <img align="center" alt="django" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-256/free-django-12-1175186.png" />
    <img align="center" alt="flash" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />  
    <img align="center" alt="nodejs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
    <img align="center" alt="php" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
