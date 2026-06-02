@@ -1,27 +1,31 @@
-## Olá! Eu sou Antônio Almeida
+# Olá, eu sou Antônio Almeida 👋
 
-- 🎓 Graduado em Análise e Desenvolvimento de Sistema - IFRN;
-- 💻 Desenvolvedor full stack;
-- 🔥 Apaixonado por programação, procurando sempre estar atualizado com as novas tecnologias do mercado.
+🎓 Graduado em Análise e Desenvolvimento de Sistemas pelo IFRN
+💻 Desenvolvedor Full Stack com foco em Backend e Arquitetura de Software
+🚀 Apaixonado por tecnologia, engenharia de software e soluções escaláveis
 
- <div>
-  <a href="https://github.com/AntonioAlmeidaRego">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonioAlmeidaRego&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioAlmeidaRego&layout=compact&langs_count=100&theme=nord"/>
-</div>
-  <div style="display: inline_block">
-  </div>
-</div>
-  
-  ##
-  
-  <div> 
-     <a href="https://www.linkedin.com/in/antonio-almeida-rego-6b5b9417b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     <a href = "mailto:antonio.alm1020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"                   target="_blank"></a>
-  
-  ##
-  
-  <img src="https://komarev.com/ghpvc/?username=AntonioAlmeidaRego&color=red" alt="quantidade de visualizações que o perfil de antonio recebeu" /> 
- 
- </div>
-  
+Atualmente atuo no desenvolvimento de sistemas corporativos, projetando e implementando aplicações robustas, escaláveis e de fácil manutenção. Tenho experiência principalmente com Java, Spring Boot, bancos de dados relacionais, APIs REST, microsserviços, mensageria e computação em nuvem.
+
+Busco constantemente aprimorar minhas habilidades técnicas e acompanhar as evoluções do mercado, sempre valorizando boas práticas de desenvolvimento, qualidade de código e arquitetura de software.
+
+### Principais competências
+
+* Java e Spring Boot
+* Arquitetura de Software
+* APIs REST
+* Microsserviços
+* PostgreSQL
+* Redis
+* Docker
+* Cloud Computing (GCP e AWS)
+* Mensageria e Processamento Assíncrono
+* Integração de Sistemas
+
+### Sobre mim
+
+Além da tecnologia, valorizo o aprendizado contínuo, a disciplina e o crescimento pessoal. Acredito que grandes resultados são construídos através da constância, responsabilidade e dedicação diária.
+
+---
+
+📍 Pau dos Ferros - RN, Brasil
+💼 Desenvolvedor de Software | Backend Engineer | Software Architect
