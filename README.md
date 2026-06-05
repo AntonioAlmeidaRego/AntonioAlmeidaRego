@@ -1,31 +1,54 @@
 # Olá, eu sou Antônio Almeida 👋
 
 🎓 Graduado em Análise e Desenvolvimento de Sistemas pelo IFRN
-💻 Desenvolvedor Full Stack com foco em Backend e Arquitetura de Software
-🚀 Apaixonado por tecnologia, engenharia de software e soluções escaláveis
 
-Atualmente atuo no desenvolvimento de sistemas corporativos, projetando e implementando aplicações robustas, escaláveis e de fácil manutenção. Tenho experiência principalmente com Java, Spring Boot, bancos de dados relacionais, APIs REST, microsserviços, mensageria e computação em nuvem.
+💻 Software Engineer com foco em Backend, Arquitetura de Software e Sistemas Distribuídos
 
-Busco constantemente aprimorar minhas habilidades técnicas e acompanhar as evoluções do mercado, sempre valorizando boas práticas de desenvolvimento, qualidade de código e arquitetura de software.
+🚀 Apaixonado por tecnologia, engenharia de software e aprendizado contínuo
 
-### Principais competências
+Atualmente atuo no desenvolvimento de sistemas corporativos, projetando e implementando soluções robustas, escaláveis e de fácil manutenção. Tenho experiência na construção de APIs, integrações, processamento assíncrono, computação em nuvem e arquitetura de software, sempre aplicando boas práticas de engenharia, qualidade de código e princípios de design.
 
-* Java e Spring Boot
-* Arquitetura de Software
+## Tecnologias e Ferramentas
+
+### Backend
+
+* Java | Spring Boot
+* Python | Django
+* Node.js | AdonisJS
+* C/C++
 * APIs REST
 * Microsserviços
+
+### Banco de Dados
+
 * PostgreSQL
+* MySQL
 * Redis
+
+### Cloud & DevOps
+
 * Docker
-* Cloud Computing (GCP e AWS)
-* Mensageria e Processamento Assíncrono
+* Google Cloud Platform (GCP)
+* Amazon Web Services (AWS)
+
+### Arquitetura e Engenharia de Software
+
+* Arquitetura de Software
+* Design Patterns
+* Clean Code
+* SOLID
 * Integração de Sistemas
+* Processamento Assíncrono
+* Mensageria
 
-### Sobre mim
+## Sobre mim
 
-Além da tecnologia, valorizo o aprendizado contínuo, a disciplina e o crescimento pessoal. Acredito que grandes resultados são construídos através da constância, responsabilidade e dedicação diária.
+Sou movido pela curiosidade e pelo desejo constante de evolução. Gosto de estudar novas tecnologias, compreender problemas complexos e desenvolver soluções que gerem valor real para pessoas e empresas.
+
+Além da tecnologia, valorizo a disciplina, a fé e o crescimento pessoal. Rezo diariamente o Terço Mariano e o Terço da Misericórdia, buscando conduzir minha vida e carreira com responsabilidade, simplicidade e propósito.
 
 ---
 
 📍 Pau dos Ferros - RN, Brasil
-💼 Desenvolvedor de Software | Backend Engineer | Software Architect
+
+💼 Software Engineer | Backend Developer | Software Architect
